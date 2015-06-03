@@ -4,6 +4,10 @@ int doSillyStuff() {
     return 0;
 }
 
-int doSomeOthersStuffs() {
+int doSomeOtherStuffs() {
     return -1;
+}
+
+int IAmHungry(){
+ return 0;
 }

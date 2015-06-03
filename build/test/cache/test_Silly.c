@@ -2,26 +2,16 @@
 #include "Silly.h"
 
 
-void setUp(void)
-
-{
-
-}
+void setUp(void){}
 
 
 
-void tearDown(void)
-
-{
-
-}
+void tearDown(void){}
 
 
 
-void test_module_generator_needs_to_be_implemented(void)
+void test_doSillyStuff_given_nothing_should_act_like_silly(void){
 
-{
-
- UnityIgnore( ("Implement me!"), (_U_UINT)14);;
+ doSillyStuff();
 
 }
